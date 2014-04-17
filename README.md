@@ -27,3 +27,4 @@ MIT
 (c)2014 Cristian R. Arroyo
 
 [lamp]: https://github.com/vivaserver/ansible-lamp
+[eos]: http://elementaryos.org
